@@ -38,7 +38,7 @@ export default class Game extends Phaser.Scene {
         },
       });
     }
-  }
+}
 
   addButtons() {
     for (let row = 0; row < 2; row++) {
